@@ -20,9 +20,9 @@
 
 ### 2 科研文章
 
-[1]	Tongtong Liu, .RAILAAD:Rank-Augmented Injective Linear Attention for Multi-class Unsupervised Anomaly Detection.Pattern Recognition(PR).已投稿
+[1]	Tongtong Liu, .RAILAAD:Rank-Augmented Injective Linear Attention for Multi-class Unsupervised Anomaly Detection.Pattern Recognition(PR).
 
-[2]	Yuxuan Tan,.Dynamically Expandable Network for Incremental Multi-class Anomaly Detection.Neural Networks.已投稿
+[2]	Yuxuan Tan,.Dynamically Expandable Network for Incremental Multi-class Anomaly Detection.Neural Networks.
 
 [3]	Hongxia Gao, Zhenming Guan, Yaobin Huang, et al. 114Xray: A Large-scale X-ray Security Detection Benchmark and Aware Enhance Module for Real-World Prohibited Item Inspection in Baggage[C].7th Chinese Conference on Pattern Recognition and Computer Vision(PRCV) . Urumqi, China,Oct 18-20, 2024.（EI:20244717397817）
 
