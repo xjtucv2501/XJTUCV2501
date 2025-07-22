@@ -8,7 +8,7 @@
 **工业异常检测**    **X光安检图像分析**    **高光谱视觉检测技术**
 
 团队致力于将人工智能与机器视觉深度融合，推动工业检测系统的智能化与高效化发展。
-  <img src="/frame.png" width="100%"> 
+  <img src="/课题组.png" width="100%"> 
 
 ## 团队负责人（Team leader）
 <table border="0">
@@ -19,7 +19,7 @@
       <p><b>西安交通大学大学电信学部网安学院</b></p>
     </td>
     <td width="25%">
-      <img src="/高.jpg" width="100%">     
+      <img src="/new.jpg" width="100%">     
     </td>
   </tr>
 </table>
