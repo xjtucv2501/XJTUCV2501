@@ -10,8 +10,6 @@
 团队致力于将人工智能与机器视觉深度融合，推动工业检测系统的智能化与高效化发展。
   <img src="/frame.png" width="100%"> 
 
-
-
 ## 团队负责人（Team leader）
 <table border="0">
   <tr>
