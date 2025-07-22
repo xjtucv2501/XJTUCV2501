@@ -21,32 +21,59 @@
 ### 2 科研文章
 
 [1]	Tongtong Liu, .RAILAAD:Rank-Augmented Injective Linear Attention for Multi-class Unsupervised Anomaly Detection.Pattern Recognition(PR).已投稿
+
 [2]	Yuxuan Tan,.Dynamically Expandable Network for Incremental Multi-class Anomaly Detection.Neural Networks.已投稿
+
 [3]	Hongxia Gao, Zhenming Guan, Yaobin Huang, et al. 114Xray: A Large-scale X-ray Security Detection Benchmark and Aware Enhance Module for Real-World Prohibited Item Inspection in Baggage[C].7th Chinese Conference on Pattern Recognition and Computer Vision(PRCV) . Urumqi, China,Oct 18-20, 2024.（EI:20244717397817）
+
 [4]	Tang H, Gao H, Lin R. Multi-dimensional Edge-based Graph Representation Learning for Obstructed Prohibited Items Detection in X-ray Images[C].International Conference On Intelligent Computing. Tianjin, China, August 5-8, 2024.
+
 [5]	Wenbin Zou, Hongxia Gao*, Weipeng Yang, Tongtong Liu. Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement[C]. Proceedings of the 32nd ACM International Conference on Multimedia. Melbourne, Australia, Oct 28 - Nov 1, 2024: 1534-1543.(EI:20244817417426)
+
 [6]	Gao H*, Guan Z, Huang Y, et al. 114Xray: A Large-Scale X-Ray Security Detection Benchmark and Aware Enhance Network for Real-World Prohibited Item Inspection in Baggage[C]. Pattern Recognition and Computer Vision: 7th Chinese Conference, PRCV 2024, Urumqi, China, October 18–20, 2024: 246.（EI:20244717397817）
+
 [7]	Yaobin Huang, Hongxia Gao, Xiaomeng Li. AdaptXray: Vision Transformer and Adapter in X-ray images for Prohibited Items Detection[C]. 2024 IEEE International Conference on Image Processing (ICIP). Abu Dhabi, United Arab Emirates, Oct 27-30, 2024. （EI:20250617820169）
+
 [8]	Jinhui Zhao, Hongxia Gao, Tongtong Liu. Surface Anomaly Detection With Anomalous Feature Restriction And Difference-Aware Enhancement[C]. 2024 IEEE International Conference on Image Processing (ICIP).Abu Dhabi, United Arab Emirates, Oct 27-30, 2024. （EI:20250617820035）
+
 [9]	Guanji Li, Hongxia Gao. Apnet: Generating Precise Anomaly Prior Information For Mixed-supuervised Defect Detection[C]. 2024 IEEE International Conference on Image Processing (ICIP). Abu Dhabi, United Arab Emirates, Oct 27-30, 2024. （EI:20250617820066）
+
 [10]	Weipeng Yang, Hongxia Gao*, Tongtong Liu, Jianliang Ma, Wenbin Zou, Shasha Huang. Employing Multiple Priors in Retinex-Based Low-Light Image Enhancement. Proceedings of the 35th Eurographics Symposium on Rendering (EGSR), 2024.(DOI:10.2312/sr.20241154)
+
 [11]	Weipeng Yang, Hongxia Gao*, Wenbin Zou, Shasha Huang, Jianliang Ma. Low-Light Image Enhancement via Weighted Low-Rank Tensor Regularized Retinex Model. Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR). Phuket, THAILAND, Jun 10-14, 2024:767-775. （EI:20243016752341 ）
+
 [12]	Wenbin Zou, Hongxia Gao, Tian Ye, Liang Chen, Weipeng Yang, Shasha Huang, Hongshen Chen, Sixiang Chen. VQCNIR: Clearer Night Image Restoration with Vector-Quantized Dictionary[C]. 38th Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI).Vancouver, Canada, Feb.22-25, 2024. (EI:20241515870122)
+
 [13]	Zhongjian Lu, An Chen*, Hongxia Gao*, Langwen Zhang, Congyu Zhang, Yang Yang. Stereo matching from monocular images using feature consistency[J]. IET Image Processing, 2024:18(8), 1–13. (EI:20241916037667)
+
 [14]	Yang Y, Gao H, Chen A, et al. LSEPNet: Joint Prediction of Disparity and Semantics Based on Binocular Vision[C]. 2023 2nd International Symposium on Control Engineering and Robotics (ISCER). IEEE, 2023: 1-7.（EI: 20234414995248）
+
 [15]	Yang W, Gao H, Zou W, et al. Enhancing Low‐Light Images: A Variation‐based Retinex with Modified Bilateral Total Variation and Tensor Sparse Coding[J]. Computer Graphics Forum. 2023, 42(7): e14960.（EI:20234515024279）
+
 [16]	Chen H, Zou W, Gao H, et al. Joint Priors-Based Restoration Method for Degraded Images Under Medium Propagation[C]. Chinese Conference on Pattern Recognition and Computer Vision (PRCV2023). Singapore: Springer Nature Singapore, Xiamen, China, Oct.13-15, 2023: 339-350.（EI:20240215369714）
+
 [17]	Liao H, Huang B, Gao H. Feature-Aware Prohibited Items Detection for X-Ray Images[C]. 2023 IEEE International Conference on Image Processing (ICIP2023). IEEE, Kuala Lumpur, Oct.8-11, 2023: 1040-1044.(oral)（EI:20240115301741）
+
 [18]	Huang S, Zou W, Gao H, et al. Joint Edge-Guided and Spectral Transformation Network for Self-supervised X-Ray Image Restoration[C]. Proceeding of 32nd International Conference on Artificial Neural Networks（ICANN）, Crete, Greece, 26th, September 2023: 409-420.（EI:20234314952352）
+
 [19]	Zou W, Gao H, Chen L, et al. Cross-View Hierarchy Network for Stereo Image Super-Resolution[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. (CVPRW), Vancouver, Canada, June 18-22, 2023: 1396-1405.（EI:20233714730693）
+
 [20]	Weipeng Yang, Hongxia Gao*, Shasha Huang, Shicheng Niu, Hongsheng Chen, Guoheng Liang. Low-light image enhancement under mixed noise model with Tensor Representation[C]. CAAI International Conference on Artificial Intelligence. Cham: Springer Nature Switzerland, Beijing, China, Aug.27–28, 2022: 584-596. Revised Selected Papers, Part I. Cham: Springer Nature Switzerland（EI:20230113325724） 
+
 [21]	Shule Deng, Jin-Gang Yu, Zihao Wu, Hongxia Gao, Yangsheng Li and Yang Yang. Learning Relative Feature Displacement for Few-Shot Open-Set Recognition[J]. IEEE Transactions on Multimedia, 2022: 1-12.(EI: 20223512677032)
+
 [22]	Ye Cai, Hongxia Gao*, Shicheng Niu, Tian Qi. A multi-stage restoration method for degraded images with light scattering and absorption[C]. 2022 26th International Conference on Pattern Recognition (ICPR). IEEE, Montreal, QC, Canada, Aug.21-25, 2022: 407-413. (EI: 20225013235613)
+
 [23]	Ye Cai, Lan Luo, Hongxia Gao*, Shicheng Niu, Weipeng Yang, Tian Qi, Guoheng Liang. Haze Removal Using a Hybrid Convolutional Sparse Representation Model[C]. Fourteenth International Conference on Digital Image Processing (ICDIP 2022). SPIE, Wuhan, China, May.20-23, 2022, 12342: 933-942.(EI:20224613131275).
+
 [24]	Guoyuan Lin, Hongyu Liao, Hongxia Gao*, Jianliang Ma. A combined algorithm for imbalanced classification based on dual distribution representation learning and classifier decoupling learning[C]. 2022 IEEE 2nd International Conference on Information Communication and Software Engineering (ICICSE). IEEE, Chongqing, China, Mar.18-20, 2022: 18-24.(EI: 20223312582155)
+
 [25]	Li R, Gao H, Luo J et al. Feature Selection and Classification of Texture Images Based on Local Structure and Low-Rank Constraints[C]. Pattern Recognition and Computer Vision: Third Chinese Conference, PRCV 2020, Nanjing, China, Oct.16–18, 2020, Proceedings, Part II 3. Springer International Publishing, 2020: 614-625.(EI: 20204409412568)
+
 [26]	Rihong Li, Yongfei Chen, Weipeng Yang, Feng Lin, Hongxia Gao, Guoheng Liang. Defect Detection Based on Fusion of Phase Congruency and Shear Wavelet[C]. 2020 International Symposium on Autonomous Systems (ISAS). IEEE, Guangzhou, China, Dec.6-8, 2020: 258-262.(EI: 20211510196664)
+
 [27]	Hongxia Gao, Zhanhong Chen, Binyang Huang*, Jiahe Chen, Zhifu Li. Image Super Resolution Based on Conditional Generative Adversarial Network[J]. IET Image Processing, 2020, 14(13): 3006-3013.(SCI收录- 000595800300006)
+
 [28]	Jin-Gang Yu, Yansheng Li, Changxin Gao, Hongxia Gao, Gui-Song Xia, Zhu Liang Yu and Yuanqing Li*. Exemplar-Based Recursive Instance Segmentation with Application to Plant Image Analysis[J]. IEEE Transactions on Image Processing, 2019, 29: 389-404.(非一作通讯，SCI收录-000497434700010)
 
 ### 3 授权专利
