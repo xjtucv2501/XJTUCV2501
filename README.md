@@ -1,10 +1,4 @@
 
-<!-- ### Hello World!  I am <b>chenorange<a target="_blank" href="javascript:;"></a></b> -->
-- :hearts: 富强、民主、文明、和谐: 是从价值目标层面对社会主义核心价值观基本理念的凝练
-- :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
-- :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
-</div>
-
 ## 团队介绍（Team Introduction）
 本项目由一个专注于工业视觉检测的研究团队开发与维护。团队由西安交通大学高红霞教授牵头，在以下研究方向上具有深厚积累与成果：
 微聚焦X射线成像分析（安检方向），海洋水下潜航器视觉系统，精密电子制造中的视觉识别与检测。
@@ -30,6 +24,11 @@
 </table>
 
 
+<!-- ### Hello World!  I am <b>chenorange<a target="_blank" href="javascript:;"></a></b> -->
+- :hearts: 富强、民主、文明、和谐: 是从价值目标层面对社会主义核心价值观基本理念的凝练
+- :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
+- :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
+</div>
 
 ## 团队成果（Team achievements）
 ### 1 国家级项目
