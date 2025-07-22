@@ -1,11 +1,8 @@
 
 <!-- ### Hello World!  I am <b>chenorange<a target="_blank" href="javascript:;"></a></b> -->
 - :hearts: 富强、民主、文明、和谐: 是从价值目标层面对社会主义核心价值观基本理念的凝练
-  
 - :1st_place_medal: 自由、平等、公正、法治: 是我们党矢志不渝、长期实践的核心价值理念
-
 - :sun_with_face: 爱国、敬业、诚信、友善: 个人行为层面对社会主义核心价值观基本理念的凝练
-
 </div>
 
 ## 团队介绍（Team Introduction）
@@ -17,6 +14,22 @@
 **工业异常检测**    **X光安检图像分析**    **高光谱视觉检测技术**
 
 团队致力于将人工智能与机器视觉深度融合，推动工业检测系统的智能化与高效化发展。
+
+## 团队负责人（Team leader）
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>高红霞</h1>
+      <p><b>博士生导师</b></p>
+      <p><b>西安交通大学大学电信学部网安学院</b></p>
+    </td>
+    <td width="25%">
+      <img src="/高.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 
 ## 团队成果（Team achievements）
 ### 1 国家级项目
