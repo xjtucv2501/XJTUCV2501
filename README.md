@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**xjtucv2501/XJTUCV2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 团队介绍（Team Introduction）
+本项目由一个专注于工业视觉检测的研究团队开发与维护。团队在以下研究方向上具有深厚积累与成果：
+微聚焦X射线成像分析
+海洋水下潜航器视觉系统
+精密电子制造中的视觉识别与检测
+目前，团队的研究重心主要聚焦于以下关键技术方向：
+工业异常检测
+X光安检图像分析
+高光谱视觉检测技术
+团队致力于将人工智能与机器视觉深度融合，推动工业检测系统的智能化与高效化发展。
