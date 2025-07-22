@@ -72,9 +72,9 @@
 
 [26]	Rihong Li, Yongfei Chen, Weipeng Yang, Feng Lin, Hongxia Gao, Guoheng Liang. Defect Detection Based on Fusion of Phase Congruency and Shear Wavelet[C]. 2020 International Symposium on Autonomous Systems (ISAS). IEEE, Guangzhou, China, Dec.6-8, 2020: 258-262.(EI: 20211510196664)
 
-[27]	Hongxia Gao, Zhanhong Chen, Binyang Huang*, Jiahe Chen, Zhifu Li. Image Super Resolution Based on Conditional Generative Adversarial Network[J]. IET Image Processing, 2020, 14(13): 3006-3013.(SCI收录- 000595800300006)
+[27]	Hongxia Gao, Zhanhong Chen, Binyang Huang*, Jiahe Chen, Zhifu Li. Image Super Resolution Based on Conditional Generative Adversarial Network[J]. IET Image Processing, 2020, 14(13): 3006-3013.
 
-[28]	Jin-Gang Yu, Yansheng Li, Changxin Gao, Hongxia Gao, Gui-Song Xia, Zhu Liang Yu and Yuanqing Li*. Exemplar-Based Recursive Instance Segmentation with Application to Plant Image Analysis[J]. IEEE Transactions on Image Processing, 2019, 29: 389-404.(非一作通讯，SCI收录-000497434700010)
+[28]	Jin-Gang Yu, Yansheng Li, Changxin Gao, Hongxia Gao, Gui-Song Xia, Zhu Liang Yu and Yuanqing Li*. Exemplar-Based Recursive Instance Segmentation with Application to Plant Image Analysis[J]. IEEE Transactions on Image Processing, 2019, 29: 389-404.
 
 ### 3 授权专利
 1)	发明专利.高红霞, 廖宏宇, 黄滨, 郑弘振. 基于特征感知和多通道学习的图像色差检测方法.授权日期: 2024.09.20 申请日期: 2022.02.26, 中国, 申请号: CN202210180091.6. 公开授权号：CN114581536B
